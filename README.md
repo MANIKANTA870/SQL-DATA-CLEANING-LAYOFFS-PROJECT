@@ -38,4 +38,4 @@ This project focuses on cleaning and analyzing a layoffs dataset using SQL.
 - GitHub
 
 ## Author
-Your Name
+Manikanta
