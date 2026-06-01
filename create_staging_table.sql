@@ -1,0 +1,10 @@
+#CREATING A STAGING TABLE
+
+CREATE TABLE layoffs_staging
+LIKE layoffs;
+
+#COPING THE DATA INTO STAGING TABLE
+
+INSERT INTO  layoffs_staging
+SELECT*
+FROM layoffs;
